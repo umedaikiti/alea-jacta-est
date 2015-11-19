@@ -1,6 +1,6 @@
 # Alea jacta est
 
-"Alea jacta est."はオープンソースの連続音声認識エンジンJulius(http://julius.sourceforge.jp/)を利用した、音声認識による将棋プログラムです。棋譜での表記のように「7六歩」などと喋るとそれを認識して駒を動かします。
+"Alea jacta est."はオープンソースの連続音声認識エンジン[Julius](http://julius.sourceforge.jp/)を利用した、音声認識による将棋プログラムです。棋譜での表記のように「7六歩」などと喋るとそれを認識して駒を動かします。
 
 ## 名前について
 
@@ -22,7 +22,7 @@ https://github.com/julius-speech/julius/releases から julius-4.3.1-linuxbin.ta
 
 # 遊び方
 
-マイクに向かって駒の動かし方を話してください。駒の動かし方は棋譜の表記方法(http://www.shogi.or.jp/faq/kihuhyouki.html)にしたがって指定してください。
+マイクに向かって駒の動かし方を話してください。駒の動かし方は[棋譜の表記方法](http://www.shogi.or.jp/faq/kihuhyouki.html)にしたがって指定してください。
 
 持ち駒ももちろん使えます。
 
